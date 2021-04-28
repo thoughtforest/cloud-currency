@@ -1,3 +1,6 @@
+# Creativity Cloud Currency, CCC
+Wallet and chain explorer application for Creativity Cloud Currency powered by ideatree nodes. Please visit https://creativitycloud.org to learn more about new digital currency being developed that will solve real world problem in very obvious way.
+
 # TreeModel
 
 Manipulate and traverse tree-like structures in javascript.
